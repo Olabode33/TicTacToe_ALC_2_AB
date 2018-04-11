@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="app_studio">By Olabode33</string>
+    <string name="input_player_count">Number of Players</string>
+    <string name="input_board_size">Board Size</string>
+    <string name="input_token_p1">Player 1 Token</string>
+    <string name="input_token_p2">Player 2 Token</string>
+    <string-array name="input_spn_player">
+        <item>1 Player</item>
+        <item>2 Players</item>
+    </string-array>
+    <string-array name="input_spn_board">
+        <item>3 by 3</item>
+        <item>5 by 5</item>
+    </string-array>
+    <string-array name="input_token">
+        <item>X</item>
+        <item>O</item>
+    </string-array>
+    <string name="btn_start_game">Start Game</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+    <string name="btn_reset_game">Reset Game</string>
+</resources>
